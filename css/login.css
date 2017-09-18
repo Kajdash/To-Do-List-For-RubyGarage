@@ -17,7 +17,8 @@ body {
 
 .form-signin-heading,
 .checkbox {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
+    margin-left: 20px;
 }
 
 .checkbox {
