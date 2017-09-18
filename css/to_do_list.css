@@ -1,0 +1,14 @@
+body {
+    background-color: #9d9d9d;
+}
+
+.navbar-default {
+    background-color: #9d9d9d;
+    border-color: #122b40;
+}
+.navbar-header .navbar-brand {
+    color: #122b40;
+}
+a {
+    color: #122b40;
+}
